@@ -1,5 +1,5 @@
 <div align=center>
-  [<img src="https://github.com/yuancc12/yuancc12/blob/main/%E6%97%A0%E6%A0%87%E9%A2%98%E8%A7%86%E9%A2%91%E2%80%94%E2%80%94%E4%BD%BF%E7%94%A8Clipchamp%E5%88%B6%E4%BD%9C.gif" />] (https://yuancc12.github.io/web/mypages/)\
+  [<img src="<iframe src="https://giphy.com/embed/AbtMffBOsKESOF8pA5" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/AbtMffBOsKESOF8pA5">via GIPHY</a></p>" />] (https://yuancc12.github.io/web/mypages/)\
 <h3 align="center">你好，我是個默默無聞的一名大學生，希望可以在這跟各位學習到許多知識</h3>
 
 - 🔭 就讀大學 **國立臺灣師範大學(National Taiwan Normal University)**
