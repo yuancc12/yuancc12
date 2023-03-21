@@ -1,10 +1,10 @@
 <div align=center>
 <img src="https://github.com/yuancc12/yuancc12/blob/main/%E6%97%A0%E6%A0%87%E9%A2%98%E8%A7%86%E9%A2%91%E2%80%94%E2%80%94%E4%BD%BF%E7%94%A8Clipchamp%E5%88%B6%E4%BD%9C.gif" />
-<h3 align="center">HI,I'm Yuan Chi,I'm come from Malaysia</h3>
+<h3 align="center">你好，我就是個默默無聞的一名學生，希望可以在這跟各位學習到許多知識</h3>
 
 - 🔭 I’m currently studying on **National Taiwan Normal University**
 
-- 🌱 I’m currently learning **JavaScript,UI/UX**
+- 🌱 I’m currently learning **JavaScript,UI/UX，Python,C++,Github,Photoshop**
 
 - 📫 How to reach me **ydsoon02@gmail.com**
 
