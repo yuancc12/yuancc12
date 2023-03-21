@@ -1,4 +1,4 @@
-<h2> Hi, I'm Yuanchi ! <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="500"></h2>
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Yuan (Che|nd Chi)|https://raymond.li)" title="👋 Hi there! I'm (Yuan (Che|nd Chi)|https://raymond.li)"/>](https://raymond.li/)
 
 <!--
 **yuancc12/yuancc12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
