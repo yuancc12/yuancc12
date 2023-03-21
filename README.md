@@ -2,11 +2,13 @@
   [<img src="https://github.com/yuancc12/yuancc12/blob/main/gifgit.gif" weight=1000>]
   <h3>你好，我是個默默無聞的一名大學生，希望可以在這跟各位學習到許多知識</h3>
 
-- 🔭 就讀大學 **國立臺灣師範大學(National Taiwan Normal University)**
+- 🔭 就讀大學: **國立臺灣師範大學(National Taiwan Normal University)**
 
-- 🌱 現正學習 **JavaScript,UI/UX，Python,C++,Github,Photoshop**
+- 🌱 現正學習: **JavaScript,UI/UX，Python,C++,Github,Photoshop**
 
-- 📫 信箱聯繫 **ydsoon02@gmail.com**
+- 📫 信箱聯繫: **ydsoon02@gmail.com**
+- ![19ECB2FE](https://user-images.githubusercontent.com/106596798/226666960-df3b84a4-6c63-435e-a47d-030116c08165.png)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
