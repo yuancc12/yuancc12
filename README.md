@@ -1,4 +1,4 @@
-<h2> Hi, I'm Yuanchi ! <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Yuanchi ! <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="500"></h2>
 
 <!--
 **yuancc12/yuancc12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
