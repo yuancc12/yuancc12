@@ -7,7 +7,7 @@
 - 🌱 現正學習: **JavaScript,UI/UX，Python,C++,Github,Photoshop**
 
 - 📫 信箱聯繫: **ydsoon02@gmail.com**
-- ![19ECB2FE](https://user-images.githubusercontent.com/106596798/226666960-df3b84a4-6c63-435e-a47d-030116c08165.png)
+- :scream:
 
 
 <h3 align="left">Connect with me:</h3>
