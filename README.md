@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Yuan (Che|nd Chi)|https://raymond.li)" title="👋 Hi there! I'm (Yuan (Che|nd Chi)|https://raymond.li)"/>](https://raymond.li/)
+[<img src="https://www.flexclip.com/cn/share/26078809269b8311870fbc7426fadc9826c2f5c.html" alt="👋 Hi there! I'm (Yuan (Che|nd Chi)|https://raymond.li)" title="👋 Hi there! I'm (Yuan (Che|nd Chi)|https://raymond.li)"/>](https://raymond.li/)
 
 <!--
 **yuancc12/yuancc12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
