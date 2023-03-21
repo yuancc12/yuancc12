@@ -1,4 +1,4 @@
-<img src="https://github.com/yuancc12/yuancc12/blob/main/Untitled%20%E2%80%91%20Made%20with%20FlexClip.gif" width="1300"/>
+<img src="https://github.com/yuancc12/yuancc12/blob/main/Untitled%20%E2%80%91%20Made%20with%20FlexClip%20(1).gif" width="1300"/>
 <!--
 **yuancc12/yuancc12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
