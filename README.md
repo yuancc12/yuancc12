@@ -7,7 +7,7 @@
 - 🌱 現正學習: **JavaScript,UI/UX，Python,C++,Github,Photoshop**
 
 - 📫 信箱聯繫: **ydsoon02@gmail.com**
-- :black_nib: 個人網站
+- :black_nib: 個人網站: **https://yuancc12.github.io/web/mypages/**
 
 
 <h3 align="left">Connect with me:</h3>
