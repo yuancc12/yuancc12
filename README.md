@@ -1,4 +1,4 @@
-[<img src="https://www.flexclip.com/cn/share/26078809269b8311870fbc7426fadc9826c2f5c.html" />](https://raymond.li/)
+[<img src="C:\Users\User\OneDrive\Documents\GitHub\yuancc12\Untitled ‑ Made with FlexClip.gif" />](https://raymond.li/)
 
 <!--
 **yuancc12/yuancc12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
