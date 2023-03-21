@@ -1,4 +1,4 @@
-[<img src="C:\Users\User\OneDrive\Documents\GitHub\yuancc12\Untitled ‑ Made with FlexClip.gif" />]
+<img src="C:\Users\User\OneDrive\Documents\GitHub\yuancc12\Untitled ‑ Made with FlexClip.gif" />
 <!--
 **yuancc12/yuancc12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
