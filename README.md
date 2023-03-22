@@ -9,6 +9,7 @@
 - 📫 信箱聯繫: **ydsoon02@gmail.com**
 - :black_nib: 個人網站: **https://yuancc12.github.io/web/mypages/**
 
+[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/xtn0204?style=social)](https://twitter.com/xtn0204)
 [![GitHub yuancc12](https://img.shields.io/github/followers/yuancc12?label=follow&style=social)](https://github.com/yuancc12)
 
 <h3 align="left">Connect with me:</h3>
