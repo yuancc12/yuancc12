@@ -9,9 +9,6 @@
 - 📫 信箱聯繫: **ydsoon02@gmail.com**
 - :black_nib: 個人網站: **https://yuancc12.github.io/web/mypages/**
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/xtn0204?style=social)](https://twitter.com/xtn0204)
-[![GitHub yuancc12](https://img.shields.io/github/followers/yuancc12?label=follow&style=social)](https://github.com/yuancc12)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/孫源智" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="孫源智" height="30" width="40" /></a>
