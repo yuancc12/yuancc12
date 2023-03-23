@@ -1,5 +1,5 @@
 <div align=center>
-  [<img src="https://github.com/yuancc12/yuancc12/blob/main/gifgit.gif" weight=800 height=400>]
+  <img src="https://github.com/yuancc12/yuancc12/blob/main/gifgit.gif" weight=800 height=400>
   <h3>你好，我是個默默無聞的一名大學生，希望可以在這跟各位學習到許多知識,感謝~</h3>
 
 - 🔭 就讀大學: **國立臺灣師範大學(National Taiwan Normal University)**
