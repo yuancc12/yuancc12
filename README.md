@@ -1,13 +1,12 @@
 <div align=center>
   <img src="https://github.com/yuancc12/yuancc12/blob/main/giphy.gif" weight=800 height=400>
-  
-  <h3>你好，我是個默默無聞的一名大學生，希望可以在這跟各位學習到許多知識,感謝~</h3>
 
-- 🔭 就讀大學: **國立臺灣師範大學(National Taiwan Normal University)**
+- 🔭 學歷: **國立臺灣師範大學(National Taiwan Normal University)**
 
 - 🌱 現正學習: **JavaScript,UI/UX，Python,C++,Github,Photoshop**
 
 - 📫 信箱聯繫: **ydsoon02@gmail.com**
+
 - :black_nib: 個人網站: **https://yuancc12.github.io/web/mypages/**
 
 <h3 align="left">Connect with me:</h3>
